@@ -5,7 +5,7 @@ import GlobalContext from 'src/context'
 import { useStateLinkUnmounted } from '@hookstate/core';
 import RNFetchBlob from 'rn-fetch-blob';
 
-const API_URL = 'http://192.168.0.217/uzeh-api';
+const API_URL = 'http://192.168.0.153/uzeh-api';
 
 const getAuthorizationHeader = () => {
   const authState = useStateLinkUnmounted(GlobalContext.auth.authStateRef);

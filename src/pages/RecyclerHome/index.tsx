@@ -16,6 +16,7 @@ import request from 'util/request';
 import chevronLeft from '../../../assets/images/chevron-left.png';
 import chevronRight from '../../../assets/images/chevron-right.png';
 import Icon from 'components/Icon';
+import OneSignal from 'react-native-onesignal';
 
 const styles = StyleSheet.create({
   collectionOrdersContainer: {
@@ -102,6 +103,7 @@ const styles = StyleSheet.create({
 });
 
 const {
+  auth: { authStateRef},
   recycler: {
     collectionOrdersRef,
     loadingCollectionOrdersRef,
@@ -112,6 +114,23 @@ const {
 
 const CollectionOrder = ({ collectionOrder }) => {
   const [selected, setSelected] = useState(false);
+  const authState = useStateLink(authStateRef);
+
+  useEffect(() => {
+    let oneSignalConfig = {
+      'plain': `${authState.value.user?.plan_id}`, 
+      'uf': `${authState.value.user?.state}`,
+      'userType': `${authState.value.user?.user_type}`,
+    }
+
+    const categories = authState.value.user?.onesignal;
+    const oneSignal = Object.assign(oneSignalConfig, JSON.parse(categories));
+
+    OneSignal.setLogLevel(6, 0);
+    OneSignal.setAppId("7d76b309-beda-4bb2-9221-05cb675b81d0");
+    OneSignal.setExternalUserId(`${authState.value.user?.client_id}`)
+    OneSignal.sendTags(oneSignal);
+  }, []);
 
   const renderSwiper = (images, collectionOrderId) => {
     var itemArr = [];

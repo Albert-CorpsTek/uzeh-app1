@@ -79,7 +79,8 @@ const SelecionarPerfil = ({navigation}) => {
           image={geradorIcon} 
           content="Venda ou doe os resíduos gerados na sua casa ou na sua empresa." 
           onPress={() => {
-            Linking.openURL("https://app.uzeh.com.br/uzeh-admin/newuser/gerador");
+            navigation.navigate('WebViewGerador');
+            //Linking.openURL("https://app.uzeh.com.br/uzeh-admin/newuser/gerador");
             /*
             navigation.navigate('CadastroColetorGerador', {
               screen: 'Cadastro1',
@@ -92,7 +93,8 @@ const SelecionarPerfil = ({navigation}) => {
           image={catadorIcon} 
           content="Descubra onde tem resíduos na sua região e venda diretamente para o reciclador." 
           onPress={() => {
-            Linking.openURL("https://app.uzeh.com.br/uzeh-admin/newuser/reciclador");
+            navigation.navigate('WebViewReciclador');
+            //Linking.openURL("https://app.uzeh.com.br/uzeh-admin/newuser/reciclador");
             /*
             navigation.navigate('CadastroColetor', {
               screen: 'Cadastro1',
@@ -105,7 +107,8 @@ const SelecionarPerfil = ({navigation}) => {
           image={recicladoraIcon} 
           content="Descubra onde tem resíduos na sua região e venda diretamente para o reciclador." 
           onPress={() => {
-            Linking.openURL("https://app.uzeh.com.br/uzeh-admin/newuser/reciclador");
+            navigation.navigate('WebViewReciclador');
+            //Linking.openURL("https://app.uzeh.com.br/uzeh-admin/newuser/reciclador");
             /*
             navigation.navigate('CadastroColetor', {
               screen: 'Cadastro1',

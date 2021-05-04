@@ -17,6 +17,10 @@ export interface StateUser {
   nickname: string;
   radius: number | null;
   address: string;
+  state: string;
+  plan_id: string;
+  client_id: string;
+  onesignal: string;
 }
 
 interface State {

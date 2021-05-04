@@ -16,6 +16,8 @@ import CadastroColetor from 'src/pages/CadastroColetor';
 import GeneratorHome from 'pages/GeneratorHome';
 import Request from 'pages/Request';
 import Info from 'pages/Info';
+import WebViewGerador from './WebViewGerador';
+import WebViewReciclador from './WebViewReciclador';
 
 const { Navigator, Screen } = AppStackNavigator;
 
@@ -112,6 +114,8 @@ const AppRoutes = ({ initialRouteName }) => (
       component={CadastroReciclador}
     />
     <Stack.Screen name="Login" component={Login} />
+    <Stack.Screen name="WebViewGerador" component={WebViewGerador} />
+    <Stack.Screen name="WebViewReciclador" component={WebViewReciclador} />
     <Stack.Screen name="LoggedRoutes" component={LoggedRoutes} />
     <Stack.Screen name="Recover" component={Recover} />
     <Stack.Screen name="GeneratorHome" component={GeneratorHome} />

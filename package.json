@@ -60,6 +60,7 @@
     "react-native-maps": "0.27.1",
     "react-native-masked-text": "^1.13.0",
     "react-native-numeric-input": "^1.8.3",
+    "react-native-onesignal": "^4.0.8",
     "react-native-paper": "^3.6.0",
     "react-native-progress-steps": "^1.2.8",
     "react-native-reanimated": "^1.13.2",

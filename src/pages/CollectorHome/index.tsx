@@ -11,6 +11,7 @@ import Header from 'components/Header';
 import Geolocation from 'react-native-geolocation-service';
 import GlobalContext from 'src/context';
 import { useStateLink } from '@hookstate/core';
+import OneSignal from 'react-native-onesignal';
 
 const styles = StyleSheet.create({
   header: {
@@ -22,6 +23,7 @@ const styles = StyleSheet.create({
 const Stack = createStackNavigator();
 
 const {
+  auth: { authStateRef},
   recycler: {
     userCoordinatesRef,
   }
@@ -54,6 +56,17 @@ const CollectorHome = () => {
 
   useEffect(() => {
     getLocationPermission();
+  }, []);
+
+  useEffect(() => {
+    OneSignal.setLogLevel(6, 0);
+    OneSignal.setAppId("7d76b309-beda-4bb2-9221-05cb675b81d0");
+    OneSignal.setExternalUserId(`${authStateRef.value.user?.client_id}`)
+    OneSignal.sendTags({
+      'plain': `${authStateRef.value.user?.plan_id}`, 
+      'uf': `${authStateRef.value.user?.state}`,
+      'userType': `${authStateRef.value.user?.user_type}`,
+     });
   }, []);
 
   useEffect(() => {

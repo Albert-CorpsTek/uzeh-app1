@@ -1,0 +1,1238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:react-native-google-places] C:\wamp\www\uzeh-app\node_modules\react-native-google-places\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:@react-native-community_async-storage] C:\wamp\www\uzeh-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_checkbox] C:\wamp\www\uzeh-app\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_datetimepicker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:@react-native-community_masked-view] C:\wamp\www\uzeh-app\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_picker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-geolocation-service] C:\wamp\www\uzeh-app\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\wamp\www\uzeh-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-maps] C:\wamp\www\uzeh-app\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-onesignal] C:\wamp\www\uzeh-app\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] C:\wamp\www\uzeh-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\wamp\www\uzeh-app\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\wamp\www\uzeh-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] C:\wamp\www\uzeh-app\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-text-input-mask] C:\wamp\www\uzeh-app\node_modules\react-native-text-input-mask\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\wamp\www\uzeh-app\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c8a67a6e4455636dfe66679346ecea5d\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f20560b2c931525df1f3e61b6e66d58\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\eb850dac352fa60a07d777ac825c444e\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] C:\wamp\www\uzeh-app\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:2:1-26:12
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:2:1-118:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\41849d4779c6398e09941b28fc624b6d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4a8e8d64ebd6f779a0624fc73966dbb8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\6e772336065b3cd9650e08485fdfc98b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:15:1-41:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c8f817c67223cf50396d24e896a1319\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\79f8361a8726f68d5061c89190881c87\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\450a058f18913cc1e5f32da201f79d06\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3b55668a35f4d09bce93ce2d7bd99b5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\faf1297eaded286a1cf1621fc74b6e7a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9cef5c79fad408ea47f510f010554b27\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\f4e2276e1620c980418a586293357176\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f4b8e6e0ff2548bfbb31a4a52886baf\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2819b2a009bae37b5c2e8b67a1466a9a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\decfbbb1bc27e62d4d208783d00f31a5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c76a8e4f7ffcef58f24d6522f35d5b53\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8e063a8cbc7c23ed3ac6110194121c38\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\0105997e47383c5c7adc6937e991cb47\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afe9fe873088c1a8b4b5e4abc5659c8a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\76220a9a636016fd810134f2eabfa5de\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3e87819dc596feea121856794366e150\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c585c6bede6175d812b9fbcef08edd5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\279fb0471e0eb98bedcfdc1304b9d531\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9f62c4cc096422a87365bd8e1086cd70\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\18cc70c4b66e2bf1e1c7b73809966a2e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\506603012a9dca402ae84a08eb963f9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3d6ce300d03cedf324a41dfe48179a36\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9f4977c1dd5494730c24cb935f00d420\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe9ed350c04c5c2013ceeb0314a90ff6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c6b60ac67aba9551e1a221a71559cb8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\f29f14fd811f405d0ea4dbffddcc8cec\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c4f964cbad3dc251d9c6e37aeae5122a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d887faf5779c45c2a01cf2cb94baa6bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c4e4ff66e9448a9286fbfb43566f5cd4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d3b425b1404085b4631b6c99b36bbf43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b92dc7f10f971d0efe47dcdd46942d53\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afa01711a6cc1024394890bd87cbcd1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\16805ba557bd99a0c54ff83b47ea9dad\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\015c53d88e6c3a33cdf90ca6a763a069\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\821403f4bff01a7a5a0c85ee48b07860\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\02bbe5a072fc353ace649e4271683549\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5d4f96506a736d3da44a46edd3b94e0a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\286059dd52fa531f001da1768a353060\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c54b52cde2432bdfa9c10be7fe6bb795\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\870b54dd87d0873f942e1d5f8f51b73a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bfff0fc6dd3cf3bed9ffa487fa07e118\AndroidManifest.xml:2:1-13:12
+MERGED from [com.redmadrobot:input-mask-android:6.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e04f745460427f476bdd41723f9baa0d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe93ec663a06cba28d58e7c7173118d2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\75e1e50b7e80ba433b7b37c2cd49bbdb\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\01a2d43787564ff76d551191dff51cae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9a256c27839f343edd67d0e77fa52439\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a5afae0415e1f96af11139eb0570447c\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\26f35f45d2af0c75a6637ed03d15a34c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2aa48ba8eec4d75d326f9e7cf7a8e90a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3ab801ad13b7b58c677c9aa10ace7840\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\dfe79e90af510e6e5083132a5a330848\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5f78d653da133f00f3998b2044785e94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\ddee152f9f2704b47e27c4e36266eec4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\048a2eb9314f303632cd05933c216a3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b595447caa41d06c1d81f315fa30f3b6\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8d380db19f12cdda785b4fac7f5242cb\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\539aeeaaafcf10b3cedc8dc39a538c8e\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b108cd6621f23f94d9e4639c5c3c9bcd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\0c40f4cf266971f31ed638c84bad1808\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fdadd3d45fd3b2d1cf48476eec38265e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fb0528baff1195256c2a6eb7576c7e12\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f417883c006f2828568ddc5f0857800\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d10ca262ba1cdb95659942cb8f36cbdd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\58b07f24137f52e0ace088d0661a3be1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bb36f0a11f25999fce07974b3ca577b5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5d75fef8480a0f075a388629f6897e89\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\df29800f86bd69626bda91c1ce097025\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\098081564b3d550b6cc115572e01a613\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:3:3-21
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:3:3-21
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:4:3-49
+	android:versionCode
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:2:3-61
+uses-permission#android.permission.INTERNET
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-maps] C:\wamp\www\uzeh-app\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\wamp\www\uzeh-app\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:11:5-67
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:16:5-67
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:9:5-80
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] C:\wamp\www\uzeh-app\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] C:\wamp\www\uzeh-app\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:12:5-76
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-76
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-76
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:10:5-76
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:12:22-73
+application
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from [:react-native-google-places] C:\wamp\www\uzeh-app\node_modules\react-native-google-places\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-google-places] C:\wamp\www\uzeh-app\node_modules\react-native-google-places\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-12:19
+MERGED from [:@react-native-community_datetimepicker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:@react-native-community_datetimepicker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c8a67a6e4455636dfe66679346ecea5d\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c8a67a6e4455636dfe66679346ecea5d\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:13:5-24:19
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:48:5-116:19
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:48:5-116:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\41849d4779c6398e09941b28fc624b6d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\41849d4779c6398e09941b28fc624b6d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:25:5-39:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f4b8e6e0ff2548bfbb31a4a52886baf\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f4b8e6e0ff2548bfbb31a4a52886baf\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2819b2a009bae37b5c2e8b67a1466a9a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2819b2a009bae37b5c2e8b67a1466a9a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\decfbbb1bc27e62d4d208783d00f31a5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\decfbbb1bc27e62d4d208783d00f31a5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c76a8e4f7ffcef58f24d6522f35d5b53\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c76a8e4f7ffcef58f24d6522f35d5b53\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8e063a8cbc7c23ed3ac6110194121c38\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8e063a8cbc7c23ed3ac6110194121c38\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afe9fe873088c1a8b4b5e4abc5659c8a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afe9fe873088c1a8b4b5e4abc5659c8a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\76220a9a636016fd810134f2eabfa5de\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\76220a9a636016fd810134f2eabfa5de\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3e87819dc596feea121856794366e150\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3e87819dc596feea121856794366e150\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c585c6bede6175d812b9fbcef08edd5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c585c6bede6175d812b9fbcef08edd5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\279fb0471e0eb98bedcfdc1304b9d531\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\279fb0471e0eb98bedcfdc1304b9d531\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c54b52cde2432bdfa9c10be7fe6bb795\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c54b52cde2432bdfa9c10be7fe6bb795\AndroidManifest.xml:24:5-89
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bfff0fc6dd3cf3bed9ffa487fa07e118\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bfff0fc6dd3cf3bed9ffa487fa07e118\AndroidManifest.xml:7:5-11:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe93ec663a06cba28d58e7c7173118d2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe93ec663a06cba28d58e7c7173118d2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\75e1e50b7e80ba433b7b37c2cd49bbdb\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\75e1e50b7e80ba433b7b37c2cd49bbdb\AndroidManifest.xml:10:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a5afae0415e1f96af11139eb0570447c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a5afae0415e1f96af11139eb0570447c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\539aeeaaafcf10b3cedc8dc39a538c8e\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\539aeeaaafcf10b3cedc8dc39a538c8e\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:24:5-29:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-beta01] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c54b52cde2432bdfa9c10be7fe6bb795\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:react-native-google-places] C:\wamp\www\uzeh-app\node_modules\react-native-google-places\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:16:7-39
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:16:7-39
+	tools:ignore
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:18:7-52
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:18:7-52
+	tools:targetApi
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:22:7-27
+	android:icon
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:17:7-36
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:17:7-36
+	android:allowBackup
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:19:7-34
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:19:7-34
+	android:theme
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:20:7-38
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:20:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:21:7-42
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:15:7-38
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:15:7-38
+activity#com.uzeh.MainActivity
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:24:7-34:18
+	android:screenOrientation
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:29:9-45
+	android:label
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:26:9-41
+	android:windowSoftInputMode
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:28:9-51
+	android:configChanges
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:27:9-79
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:25:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:30:9-33:25
+action#android.intent.action.MAIN
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:31:13-65
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:31:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:32:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:35:7-84
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:35:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:37:7-39:66
+	android:value
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:39:9-64
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:38:9-54
+uses-library#org.apache.http.legacy
+ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:41:7-85
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:41:59-83
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml:41:21-58
+uses-sdk
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-google-places] C:\wamp\www\uzeh-app\node_modules\react-native-google-places\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-places] C:\wamp\www\uzeh-app\node_modules\react-native-google-places\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] C:\wamp\www\uzeh-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] C:\wamp\www\uzeh-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_checkbox] C:\wamp\www\uzeh-app\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_checkbox] C:\wamp\www\uzeh-app\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_datetimepicker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_datetimepicker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_masked-view] C:\wamp\www\uzeh-app\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] C:\wamp\www\uzeh-app\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_picker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_picker] C:\wamp\www\uzeh-app\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] C:\wamp\www\uzeh-app\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] C:\wamp\www\uzeh-app\node_modules\react-native-geolocation-service\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\wamp\www\uzeh-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\wamp\www\uzeh-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] C:\wamp\www\uzeh-app\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\wamp\www\uzeh-app\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-onesignal] C:\wamp\www\uzeh-app\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-onesignal] C:\wamp\www\uzeh-app\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] C:\wamp\www\uzeh-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\wamp\www\uzeh-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\wamp\www\uzeh-app\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\wamp\www\uzeh-app\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\wamp\www\uzeh-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\wamp\www\uzeh-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\wamp\www\uzeh-app\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\wamp\www\uzeh-app\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-text-input-mask] C:\wamp\www\uzeh-app\node_modules\react-native-text-input-mask\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-text-input-mask] C:\wamp\www\uzeh-app\node_modules\react-native-text-input-mask\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\wamp\www\uzeh-app\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\wamp\www\uzeh-app\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c8a67a6e4455636dfe66679346ecea5d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c8a67a6e4455636dfe66679346ecea5d\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f20560b2c931525df1f3e61b6e66d58\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f20560b2c931525df1f3e61b6e66d58\AndroidManifest.xml:20:5-43
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\eb850dac352fa60a07d777ac825c444e\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\eb850dac352fa60a07d777ac825c444e\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\wamp\www\uzeh-app\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\wamp\www\uzeh-app\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:7:5-44
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\41849d4779c6398e09941b28fc624b6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\41849d4779c6398e09941b28fc624b6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4a8e8d64ebd6f779a0624fc73966dbb8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4a8e8d64ebd6f779a0624fc73966dbb8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\6e772336065b3cd9650e08485fdfc98b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\6e772336065b3cd9650e08485fdfc98b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:18:5-20:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c8f817c67223cf50396d24e896a1319\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c8f817c67223cf50396d24e896a1319\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\79f8361a8726f68d5061c89190881c87\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\79f8361a8726f68d5061c89190881c87\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\450a058f18913cc1e5f32da201f79d06\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\450a058f18913cc1e5f32da201f79d06\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3b55668a35f4d09bce93ce2d7bd99b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3b55668a35f4d09bce93ce2d7bd99b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\faf1297eaded286a1cf1621fc74b6e7a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\faf1297eaded286a1cf1621fc74b6e7a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9cef5c79fad408ea47f510f010554b27\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9cef5c79fad408ea47f510f010554b27\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\f4e2276e1620c980418a586293357176\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\f4e2276e1620c980418a586293357176\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f4b8e6e0ff2548bfbb31a4a52886baf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f4b8e6e0ff2548bfbb31a4a52886baf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2819b2a009bae37b5c2e8b67a1466a9a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2819b2a009bae37b5c2e8b67a1466a9a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\decfbbb1bc27e62d4d208783d00f31a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\decfbbb1bc27e62d4d208783d00f31a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c76a8e4f7ffcef58f24d6522f35d5b53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c76a8e4f7ffcef58f24d6522f35d5b53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8e063a8cbc7c23ed3ac6110194121c38\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8e063a8cbc7c23ed3ac6110194121c38\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\0105997e47383c5c7adc6937e991cb47\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\0105997e47383c5c7adc6937e991cb47\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afe9fe873088c1a8b4b5e4abc5659c8a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afe9fe873088c1a8b4b5e4abc5659c8a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\76220a9a636016fd810134f2eabfa5de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\76220a9a636016fd810134f2eabfa5de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3e87819dc596feea121856794366e150\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3e87819dc596feea121856794366e150\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c585c6bede6175d812b9fbcef08edd5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c585c6bede6175d812b9fbcef08edd5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\279fb0471e0eb98bedcfdc1304b9d531\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\279fb0471e0eb98bedcfdc1304b9d531\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9f62c4cc096422a87365bd8e1086cd70\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9f62c4cc096422a87365bd8e1086cd70\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\18cc70c4b66e2bf1e1c7b73809966a2e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\18cc70c4b66e2bf1e1c7b73809966a2e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\506603012a9dca402ae84a08eb963f9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\506603012a9dca402ae84a08eb963f9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3d6ce300d03cedf324a41dfe48179a36\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3d6ce300d03cedf324a41dfe48179a36\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9f4977c1dd5494730c24cb935f00d420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9f4977c1dd5494730c24cb935f00d420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe9ed350c04c5c2013ceeb0314a90ff6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe9ed350c04c5c2013ceeb0314a90ff6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c6b60ac67aba9551e1a221a71559cb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8c6b60ac67aba9551e1a221a71559cb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\f29f14fd811f405d0ea4dbffddcc8cec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\f29f14fd811f405d0ea4dbffddcc8cec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c4f964cbad3dc251d9c6e37aeae5122a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c4f964cbad3dc251d9c6e37aeae5122a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d887faf5779c45c2a01cf2cb94baa6bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d887faf5779c45c2a01cf2cb94baa6bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c4e4ff66e9448a9286fbfb43566f5cd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c4e4ff66e9448a9286fbfb43566f5cd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d3b425b1404085b4631b6c99b36bbf43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d3b425b1404085b4631b6c99b36bbf43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b92dc7f10f971d0efe47dcdd46942d53\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b92dc7f10f971d0efe47dcdd46942d53\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afa01711a6cc1024394890bd87cbcd1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\afa01711a6cc1024394890bd87cbcd1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\16805ba557bd99a0c54ff83b47ea9dad\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\16805ba557bd99a0c54ff83b47ea9dad\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\015c53d88e6c3a33cdf90ca6a763a069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\015c53d88e6c3a33cdf90ca6a763a069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\821403f4bff01a7a5a0c85ee48b07860\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\821403f4bff01a7a5a0c85ee48b07860\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\02bbe5a072fc353ace649e4271683549\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\02bbe5a072fc353ace649e4271683549\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5d4f96506a736d3da44a46edd3b94e0a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5d4f96506a736d3da44a46edd3b94e0a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\286059dd52fa531f001da1768a353060\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\286059dd52fa531f001da1768a353060\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c54b52cde2432bdfa9c10be7fe6bb795\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c54b52cde2432bdfa9c10be7fe6bb795\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\870b54dd87d0873f942e1d5f8f51b73a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\870b54dd87d0873f942e1d5f8f51b73a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bfff0fc6dd3cf3bed9ffa487fa07e118\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bfff0fc6dd3cf3bed9ffa487fa07e118\AndroidManifest.xml:5:5-43
+MERGED from [com.redmadrobot:input-mask-android:6.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e04f745460427f476bdd41723f9baa0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.redmadrobot:input-mask-android:6.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e04f745460427f476bdd41723f9baa0d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe93ec663a06cba28d58e7c7173118d2\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fe93ec663a06cba28d58e7c7173118d2\AndroidManifest.xml:7:5-43
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\75e1e50b7e80ba433b7b37c2cd49bbdb\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\75e1e50b7e80ba433b7b37c2cd49bbdb\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\01a2d43787564ff76d551191dff51cae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\01a2d43787564ff76d551191dff51cae\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9a256c27839f343edd67d0e77fa52439\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9a256c27839f343edd67d0e77fa52439\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a5afae0415e1f96af11139eb0570447c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a5afae0415e1f96af11139eb0570447c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\26f35f45d2af0c75a6637ed03d15a34c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\26f35f45d2af0c75a6637ed03d15a34c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2aa48ba8eec4d75d326f9e7cf7a8e90a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\2aa48ba8eec4d75d326f9e7cf7a8e90a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3ab801ad13b7b58c677c9aa10ace7840\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\3ab801ad13b7b58c677c9aa10ace7840\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\dfe79e90af510e6e5083132a5a330848\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\dfe79e90af510e6e5083132a5a330848\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5f78d653da133f00f3998b2044785e94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5f78d653da133f00f3998b2044785e94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\ddee152f9f2704b47e27c4e36266eec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\ddee152f9f2704b47e27c4e36266eec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\048a2eb9314f303632cd05933c216a3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\048a2eb9314f303632cd05933c216a3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b595447caa41d06c1d81f315fa30f3b6\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b595447caa41d06c1d81f315fa30f3b6\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8d380db19f12cdda785b4fac7f5242cb\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\8d380db19f12cdda785b4fac7f5242cb\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\539aeeaaafcf10b3cedc8dc39a538c8e\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\539aeeaaafcf10b3cedc8dc39a538c8e\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b108cd6621f23f94d9e4639c5c3c9bcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\b108cd6621f23f94d9e4639c5c3c9bcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\0c40f4cf266971f31ed638c84bad1808\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\0c40f4cf266971f31ed638c84bad1808\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fdadd3d45fd3b2d1cf48476eec38265e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fdadd3d45fd3b2d1cf48476eec38265e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fb0528baff1195256c2a6eb7576c7e12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\fb0528baff1195256c2a6eb7576c7e12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f417883c006f2828568ddc5f0857800\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\7f417883c006f2828568ddc5f0857800\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d10ca262ba1cdb95659942cb8f36cbdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d10ca262ba1cdb95659942cb8f36cbdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\58b07f24137f52e0ace088d0661a3be1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\58b07f24137f52e0ace088d0661a3be1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bb36f0a11f25999fce07974b3ca577b5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bb36f0a11f25999fce07974b3ca577b5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5d75fef8480a0f075a388629f6897e89\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5d75fef8480a0f075a388629f6897e89\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\df29800f86bd69626bda91c1ce097025\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\df29800f86bd69626bda91c1ce097025\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\098081564b3d550b6cc115572e01a613\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\098081564b3d550b6cc115572e01a613\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml:5:22-75
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\wamp\www\uzeh-app\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\wamp\www\uzeh-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-68
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:18:5-68
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:18:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:9:5-68
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-79
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:24:5-79
+MERGED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:10:5-79
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:22-76
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] C:\wamp\www\uzeh-app\node_modules\rn-fetch-blob\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\wamp\www\uzeh-app\android\app\src\debug\AndroidManifest.xml:2:1-8:12 reason: com.RNFetchBlob requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:20:13-62
+	android:hardwareAccelerated
+		ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:22:13-71
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\10264e70895c8c8cdbbef170157b09e5\AndroidManifest.xml:17:13-91
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:8:9-63
+permission#com.uzeh.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:11:22-76
+uses-permission#com.uzeh.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:11:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:17:5-82
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\763bb02ce1e677a082d740bfcb3e1ca7\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:17:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:29:5-81
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:29:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:31:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:32:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:33:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:34:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:35:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:36:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:36:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:37:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:37:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:38:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:39:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:39:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:40:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:40:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:41:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:41:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:43:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:44:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:45:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:45:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:46:22-86
+receiver#com.onesignal.FCMBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:49:9-59:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:51:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:50:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:54:13-58:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:54:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.uzeh
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:54:13-58:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:54:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:55:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:55:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:57:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:57:27-58
+category#com.uzeh
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:57:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:57:27-58
+service#com.onesignal.HmsMessageServiceOneSignal
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:62:13-68
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:64:13-66:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:65:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:65:25-78
+activity#com.onesignal.NotificationOpenedActivityHMS
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:69:9-76:20
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:71:13-37
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:72:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:70:13-71
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:73:13-75:29
+action#android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:74:25-66
+service#com.onesignal.FCMIntentService
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:78:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:78:18-63
+service#com.onesignal.FCMIntentJobService
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:79:9-81:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:81:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:80:13-61
+service#com.onesignal.FocusDelaySyncService
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:82:9-84:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:84:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:83:13-63
+service#com.onesignal.FocusDelaySyncJobService
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:85:9-87:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:87:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:86:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:88:9-90:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:90:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:89:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:91:9-93:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:93:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:92:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:95:9-97:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:97:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:96:13-61
+receiver#com.onesignal.NotificationDismissReceiver
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:99:9-78
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:99:19-75
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:100:9-105:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:100:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:101:13-104:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:102:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:102:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:103:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:103:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:106:9-110:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:106:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:107:13-109:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:108:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:108:25-81
+activity#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:112:9-115:75
+	android:noHistory
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:114:13-37
+	android:theme
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:115:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:4.3.2] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4f6aa8efa5acaddbe5ce11cf61f6b2e9\AndroidManifest.xml:113:13-68
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:32:13-34:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:32:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:33:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\65c5c80283aab0e06f6471fd7c4eb37e\AndroidManifest.xml:40:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\07b8e1f25c9b03000bfdca714c779347\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\5ce4fac72f5edbd2ba41904f073de9f9\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\e228a20567d1a393778bd62a3e9225ba\AndroidManifest.xml:33:13-132
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\9c706230da10fb24611ba4f5d35bbd6d\AndroidManifest.xml:28:9-32
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\412b269a152124b9513e5decee31dd12\AndroidManifest.xml:41:13-43:29
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\c60598e7f383202bd4ba83e0fd3723a5\AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\a3836011b3ebc1ebcfd24a4e5ac0a11d\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\4ad6d60f543ac53a85d545f713aa11a7\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bfff0fc6dd3cf3bed9ffa487fa07e118\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\bfff0fc6dd3cf3bed9ffa487fa07e118\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\610d79c2e090aee07095132e83d3658c\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\539aeeaaafcf10b3cedc8dc39a538c8e\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\539aeeaaafcf10b3cedc8dc39a538c8e\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0-alpha03] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\d5073bf72ef42b0bbfde255b843310c5\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\corpstek 04\.gradle\caches\transforms-2\files-2.1\20c9503224dc2e21acba648d133ed2a9\AndroidManifest.xml:26:13-74
